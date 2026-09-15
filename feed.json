@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T02:20:15.135Z",
+  "generated_at": "2026-09-15T02:18:05.747Z",
   "sources": {
     "hn": 5,
     "remoteok": 4,
-    "inc42": 2
+    "inc42": 1
   },
   "items": [
     {
@@ -13,14 +13,6 @@
       "url": "https://inc42.com/buzz/westbridge-backed-way2news-restrained-from-using-appsforbharats-confidential-data/",
       "snippet": "A Bengaluru commercial court has temporarily restrained hyperlocal news startup Way2News from using confidential information and intellectual property belonging to",
       "posted_at": "Sat, 12 Sep 2026 13:28:38 +0000"
-    },
-    {
-      "source": "INC42",
-      "title": "Paris Panini Parent Popo Global Raises ₹532 Cr From Artal Asia",
-      "company": "",
-      "url": "https://inc42.com/buzz/paris-panini-parent-popo-global-raises-%e2%82%b9532-cr-from-artal-asia/",
-      "snippet": "Bengaluru-based restaurant company Popo Global, which operates gourmet food brands including The Pizza Bakery, Paris Panini and Smash Guys, has",
-      "posted_at": "Fri, 11 Sep 2026 08:14:52 +0000"
     },
     {
       "source": "HN",

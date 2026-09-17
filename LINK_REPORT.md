@@ -1,8 +1,8 @@
 # Link Health Report
 
-**Last run:** Wed, 16 Sep 2026 06:09:45 GMT
+**Last run:** Thu, 17 Sep 2026 06:09:48 GMT
 **Total checked:** 233
-**OK:** 200  ·  **Broken:** 6  ·  **Blocked (likely alive):** 22  ·  **Watch:** 5
+**OK:** 198  ·  **Broken:** 6  ·  **Blocked (likely alive):** 23  ·  **Watch:** 6
 
 ## ✗ Broken — needs attention
 
@@ -35,6 +35,7 @@
 | 403 | null Bangalore | <https://null.community/chapters/4-bangalore> |
 | 403 | We Work Remotely | <https://weworkremotely.com/> |
 | 403 | Orion Innovation | <https://www.orioninc.com/careers/> |
+| 403 | RapidValue Solutions | <https://www.rapidvaluesolutions.com/careers/> |
 | 403 | Cognizant Kochi | <https://careers.cognizant.com/> |
 | 403 | TCS Kochi | <https://www.tcs.com/careers> |
 | 403 | Indeed — Kochi DA | <https://in.indeed.com/q-data-analyst-l-kochi,-kerala-jobs.html> |
@@ -49,6 +50,7 @@
 | Status | Name | URL | Error / Final URL |
 |---|---|---|---|
 | NETERR | Analog Devices | <https://www.analog.com/en/about-adi/careers.html> | timeout |
+| NETERR | Darwinbox | <https://darwinbox.com/careers> | timeout |
 | NETERR | Madison World | <https://www.madisonindia.com/careers> | UNABLE_TO_VERIFY_LEAF_SIGNATURE |
 | NETERR | Maker Village (Kalamassery) | <https://makervillage.in/> | timeout |
 | NETERR | Maker Village events (Kochi) | <https://makervillage.in/events.php> | timeout |

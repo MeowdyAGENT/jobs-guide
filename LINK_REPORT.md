@@ -1,19 +1,21 @@
 # Link Health Report
 
-**Last run:** Thu, 17 Sep 2026 06:09:48 GMT
+**Last run:** Fri, 18 Sep 2026 06:09:36 GMT
 **Total checked:** 233
-**OK:** 198  ·  **Broken:** 6  ·  **Blocked (likely alive):** 23  ·  **Watch:** 6
+**OK:** 197  ·  **Broken:** 8  ·  **Blocked (likely alive):** 23  ·  **Watch:** 5
 
 ## ✗ Broken — needs attention
 
 | Status | Name | URL | Detail |
 |---|---|---|---|
+| 404 | Blume Ventures | <https://jobs.blume.vc/jobs> | gone |
 | 404 | Nexus Venture Partners | <https://jobs.nexusvp.com/> | gone |
 | 404 | Kaynes Technology | <https://www.kaynestechnology.co.in/careers/> | gone |
 | 404 | Tech Mahindra | <https://careers.techmahindra.com/> | gone |
 | 404 | Obvious | <https://obvious.in/> | gone |
 | 404 | Mamaearth | <https://mamaearth.in/careers> | gone |
 | 404 | McCann India | <https://www.mccann.com/careers/> | gone |
+| NETERR | Skyroot Aerospace | <https://skyroot.in/> | ERR_SSL_SSLV3_ALERT_HANDSHAKE_FAILURE |
 
 ## ⊘ Blocked by WAF / bot-protection
 
@@ -50,7 +52,6 @@
 | Status | Name | URL | Error / Final URL |
 |---|---|---|---|
 | NETERR | Analog Devices | <https://www.analog.com/en/about-adi/careers.html> | timeout |
-| NETERR | Darwinbox | <https://darwinbox.com/careers> | timeout |
 | NETERR | Madison World | <https://www.madisonindia.com/careers> | UNABLE_TO_VERIFY_LEAF_SIGNATURE |
 | NETERR | Maker Village (Kalamassery) | <https://makervillage.in/> | timeout |
 | NETERR | Maker Village events (Kochi) | <https://makervillage.in/events.php> | timeout |

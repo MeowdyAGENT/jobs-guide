@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T02:17:29.340Z",
+  "generated_at": "2026-09-18T02:17:04.348Z",
   "sources": {
-    "hn": 5,
+    "hn": 4,
     "remoteok": 4,
     "inc42": 0
   },
@@ -29,14 +29,6 @@
       "url": "https://news.ycombinator.com/item?id=49539823",
       "snippet": "Oscilar.com | Sr&#x2F;Staff Software Engineers, Security Engineer, Data Scientist | REMOTE (US&#x2F;Canada&#x2F;Brazil&#x2F;Poland&#x2F;UK&#x2F;India) Full-time AI Risk Decisioning™ platform that helps organizations manage onboarding, fraud, credit, and compliance risks Open role",
       "posted_at": "2026-09-02T17:48:02.000Z"
-    },
-    {
-      "source": "HN",
-      "title": "DualEntry | Full-time | REMOTE & ONSITE (NY) We build the first AI-native ERP OS. Competitors measure customer migrations in quarters, we of",
-      "company": "DualEntry",
-      "url": "https://news.ycombinator.com/item?id=49526938",
-      "snippet": "DualEntry | Full-time | REMOTE & ONSITE (NY) We build the first AI-native ERP OS. Competitors measure customer migrations in quarters, we offer Day-One data migration. Backed by Google, Lightspeed and Khosla with a 90M series A, we re building a team of outliers. The people who r",
-      "posted_at": "2026-09-01T19:34:45.000Z"
     },
     {
       "source": "HN",
